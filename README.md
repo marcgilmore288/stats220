@@ -8,7 +8,8 @@ _A little about me_:
 - I am taking STATS 220 because I want to learn how to read and write code in R-studio. 
 - I am interested in learning about data visualisation 
 
-A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
+A meme that captures how I currently feel about my university studies is
+![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
 
 ## Project 1 notes
 
@@ -34,4 +35,5 @@ I want to get started on this project nice and early for a few reasons:
 - reflect on the project by answering the questions and the prompts in the report template
 - finalise the project reflection and generate an HTML file
 - submit the final copy of the HTML file
+ ![](https://c.tenor.com/Cyr2PR6E3kkAAAAd/sacha-baron.gif)
   ![] (https://c.tenor.com/Cyr2PR6E3kkAAAAd/sacha-baron.gif)
