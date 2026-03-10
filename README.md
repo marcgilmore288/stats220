@@ -34,4 +34,4 @@ I want to get started on this project nice and early for a few reasons:
 - reflect on the project by answering the questions and the prompts in the report template
 - finalise the project reflection and generate an HTML file
 - submit the final copy of the HTML file
-  ![] (https://media1.tenor.com/m/Cyr2PR6E3kkAAAAd/sacha-baron.gif)
+  ![] (https://c.tenor.com/Cyr2PR6E3kkAAAAd/sacha-baron.gif)
