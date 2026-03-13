@@ -49,4 +49,4 @@ After getting started on this assignment, I'm realising that I need to keep trac
 
 So, I will use the note taking software, Obsidian. It's pretty cool because it's minimalist and uses markdown language so I can easily take notes and create to-do lists to keep track of the project. Here's a link to Obsidian:
 
-![https://obsidian.md/]
+[Obsidian Note Taking app](https://obsidian.md/)
