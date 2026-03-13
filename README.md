@@ -38,3 +38,15 @@ I want to get started on this project nice and early for a few reasons:
 - submit the final copy of the HTML file
   
  ![](https://c.tenor.com/Cyr2PR6E3kkAAAAd/sacha-baron.gif)
+
+ ### Keeping Track of Tasks and Taking Project Notes
+
+After getting started on this assignment, I'm realising that I need to keep track of three things:
+
+1. Completed Tasks
+2. Next Tasks
+3. Remaining Tasks
+
+So, I will use the note taking software, Obsidian. It's pretty cool because it's minimalist and uses markdown language so I can easily take notes and create to-do lists to keep track of the project. Here's a link to Obsidian:
+
+![https://obsidian.md/]
