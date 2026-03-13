@@ -47,6 +47,6 @@ After getting started on this assignment, I'm realising that I need to keep trac
 2. Next Tasks
 3. Remaining Tasks
 
-So, I will use the note taking software, Obsidian. It's pretty cool because it's minimalist and uses markdown language so I can easily take notes and create to-do lists to keep track of the project. Here's a link to Obsidian:
+So, I will use the note taking software, _Obsidian_. It's pretty cool because it's minimalist and uses markdown language so I can easily take notes and create to-do lists to keep track of the project. Here's a link to Obsidian:
 
 [Obsidian Note Taking app](https://obsidian.md/)
